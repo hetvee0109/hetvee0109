@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi 👋, I'm Hetvee Rabara
 
-<!--
-**hetvee0109/hetvee0109** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Pre Final Year IT Student  
+🚀 Passionate about Web Development & Problem Solving  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Skills
+- C++
+- Java
+- HTML, CSS, JavaScript
+- Learning React & Spring Boot
+
+---
+
+## 📌 Projects
+- 📱 Travel Planner Android App  
+- 🏫 Placement Management System  
+
+---
+
+## 📫 Connect with me
+- LinkedIn: 
+- Email: hetvee.rabara@gmail.com
