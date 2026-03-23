@@ -20,5 +20,5 @@
 ---
 
 ## 📫 Connect with me
-- LinkedIn: 
+- LinkedIn: in/hetvee-rabara-a7334929a
 - Email: hetvee.rabara@gmail.com
