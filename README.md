@@ -1,7 +1,7 @@
 # Hi 👋, I'm Hetvee Rabara
 
 💻 Pre-Final Year IT Student  
-🚀 Passionate about Web Development & Problem Solving  
+🚀 Passionate about building scalable web applications & solving real-world problems
 🔥 Building projects that solve real-world problems
 ---
 
@@ -15,11 +15,13 @@
 
 ## 📌 Projects
 
-- 📱 [Travel Planner Android App](https://github.com/hetvee0109/TRAVEL_PLANNER_ANDROID)
-- 🏫 [Placement Management System](https://github.com/hetvee0109/Placement_Management)
-  
+- 📱 [Travel Planner Android App](https://github.com/hetvee0109/TRAVEL_PLANNER_ANDROID)  
+  → Android app to manage trips, expenses & notes  
 
-![Stats](https://github-readme-stats.vercel.app/api?username=hetvee0109&show_icons=true&theme=tokyonight)
+- 🏫 [Placement Management System](https://github.com/hetvee0109/Placement_Management)  
+  → Web app for managing student placements
+  
+---
 
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=hetvee0109&theme=tokyonight)
 
@@ -28,5 +30,5 @@
 ---
 
 ## 📫 Connect with me
-- LinkedIn: in/hetvee-rabara-a7334929a
-- Email: hetvee.rabara@gmail.com
+- 💼 [LinkedIn](https://www.linkedin.com/in/hetvee-rabara-a7334929a/)
+- 📧 hetvee.rabara@gmail.com
