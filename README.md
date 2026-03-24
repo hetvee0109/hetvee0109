@@ -17,7 +17,7 @@
 - [Placement Management System](https://github.com/hetvee0109/Placement_Portal)  
   → Web app for managing student placements
   
-- [College Management System]() 
+- [College Management System](https://github.com/hetvee0109/college-managment-system) 
 ---
 
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=hetvee0109&theme=tokyonight)
