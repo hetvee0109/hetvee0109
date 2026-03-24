@@ -14,10 +14,6 @@
 ---
 
 ## 📌 Projects
-
-- 📱 [Travel Planner Android App](https://github.com/hetvee0109/TRAVEL_PLANNER_ANDROID)  
-  → Android app to manage trips, expenses & notes  
-
 - 🏫 [Placement Management System](https://github.com/hetvee0109/Placement_Management)  
   → Web app for managing student placements
   
