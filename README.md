@@ -14,9 +14,10 @@
 ---
 
 ## 📌 Projects
-- 🏫 [Placement Management System](https://github.com/hetvee0109/Placement_Management)  
+- [Placement Management System](https://github.com/hetvee0109/Placement_Portal)  
   → Web app for managing student placements
   
+- [College Management System]() 
 ---
 
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=hetvee0109&theme=tokyonight)
