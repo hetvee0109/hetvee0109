@@ -73,9 +73,6 @@ open_to     : Internships · Open Source · Collaborations
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 
-</td>
-<td valign="top" width="50%">
-
 **⚙️ Backend**
 
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
@@ -85,6 +82,10 @@ open_to     : Internships · Open Source · Collaborations
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+
+
+</td>
+<td valign="top" width="50%">
 
 **📱 Mobile**
 
