@@ -72,20 +72,26 @@ open_to     : Internships · Open Source · Collaborations
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 
 </td>
 <td valign="top" width="50%">
 
-**⚙️ Backend & Databases**
+**⚙️ Backend**
 
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-**📱 Mobile & Cloud**
+**🗄️ Databases**
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+
+**📱 Mobile**
 
 ![Android](https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=white)
+
+**☁️ Cloud**
+
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
 
 **🧠 CS Core**
@@ -220,7 +226,7 @@ open_to     : Internships · Open Source · Collaborations
 
 ### 👀 Profile Visitors
 
-![Visitor Count](https://profile-counter.glitch.me/hetvee0109/count.svg)
+[![Visitors](https://komarev.com/ghpvc/?username=hetvee0109&label=Profile%20Views&color=6366f1&style=for-the-badge)](https://github.com/hetvee0109)
 
 ---
 
